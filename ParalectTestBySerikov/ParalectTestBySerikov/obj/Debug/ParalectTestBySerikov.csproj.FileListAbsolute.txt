@@ -1,0 +1,6 @@
+C:\Users\Hiberiya\Desktop\Paralect\ParalectTestBySerikov\ParalectTestBySerikov\bin\Debug\ParalectTestBySerikov.exe.config
+C:\Users\Hiberiya\Desktop\Paralect\ParalectTestBySerikov\ParalectTestBySerikov\bin\Debug\ParalectTestBySerikov.exe
+C:\Users\Hiberiya\Desktop\Paralect\ParalectTestBySerikov\ParalectTestBySerikov\bin\Debug\ParalectTestBySerikov.pdb
+C:\Users\Hiberiya\Desktop\Paralect\ParalectTestBySerikov\ParalectTestBySerikov\obj\Debug\ParalectTestBySerikov.csprojResolveAssemblyReference.cache
+C:\Users\Hiberiya\Desktop\Paralect\ParalectTestBySerikov\ParalectTestBySerikov\obj\Debug\ParalectTestBySerikov.exe
+C:\Users\Hiberiya\Desktop\Paralect\ParalectTestBySerikov\ParalectTestBySerikov\obj\Debug\ParalectTestBySerikov.pdb
